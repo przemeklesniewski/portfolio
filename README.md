@@ -37,7 +37,8 @@ My name is Przemek Leśniewski. I am master of energy and environmental engineer
   - [Test cases for site www.douglas.pl](https://docs.google.com/document/d/1JGwhpmohsLmyHFDxwXAIdUU2cuTZImPMFxD7Or0SOLQ/edit)
   - [Test cases for site www.skleptest.pl](https://docs.google.com/document/d/15Ba8oIxRMmCWizwAVN3yeI1HsXYA5dHqPJ2RJ4Vrvyc/edit)
   # My bug reports
-  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
+  - [Bugs reported for angelus.com.pl site](https://docs.google.com/document/d/11WXFcSBOuerZfrP-uH4Hn3LSNJOlrD54/edit)
+  - 
   # My projects
   - Miro table
   - Cykl logowania
