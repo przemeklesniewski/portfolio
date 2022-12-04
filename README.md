@@ -29,4 +29,4 @@ My name is Przemek Leśniewski. I am master of energy and environmental engineer
   - AVIATION CONSULTING MICHAL RATAJCZAK & ATENA ACADEMY SP. Z 0.0. - ASICS OF PYTHON PROGRAMMING
   - CISCO CERTIFIED CCNA
   # My test case examples
-  - [Test cases for site eobuwie.com.pl](https://drive.google.com/drive/u/0/my-drive)
+  - [Test cases for site eobuwie.com.pl](https://docs.google.com/document/d/1VrQwMMNtbQMI19OMsah1TZkNEOWE0GKji7kk53njlmM/edit)
