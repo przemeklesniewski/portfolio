@@ -15,3 +15,12 @@ My name is Przemek Leśniewski. I am master of energy and environmental engineer
 - [Browserstack](https://www.browserstack.com/) - cross-platform web browser testing tool that allows users to test their websites and mobile applications on different browsers and operating systems
 - [Miro](https://miro.com/) - digital whiteboard that makes it easy to collaborate with others. The software allows you to create notes and designs, move things around, and communicate through embedded video calls or online chats
 - [GitHub](https://github.com/) - provides various tools and charts to track the branches and help to know there responsible for bugs. Many of these repositories are open source and can be accessed either for use or to contribute for the development of the project
+# Tech skills
+  - SQL
+  - DevTools
+  - SCRUM
+  - Software testing
+  - Creating test cases
+  - Reporting bugs
+  - Finding uniqe CSS Selectors and xPaths
+  - Creating diagrams and decision tables
