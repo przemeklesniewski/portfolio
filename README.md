@@ -24,3 +24,8 @@ My name is Przemek Leśniewski. I am master of energy and environmental engineer
   - Reporting bugs
   - Finding uniqe CSS Selectors and xPaths
   - Creating diagrams and decision tables
+  # Certificates
+  - AVIATION CONSULTING MICHAL RATAJCZAK & ATENA ACADEMY SP. Z 0.0. – SOFTWARE TESTER
+  - AVIATION CONSULTING MICHAL RATAJCZAK & ATENA ACADEMY SP. Z 0.0. - ASICS OF PYTHON PROGRAMMING
+  - CISCO CERTIFIED CCNA
+  # My test case examples
