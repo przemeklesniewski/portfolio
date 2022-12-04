@@ -22,11 +22,11 @@ My name is Przemek Leśniewski. I am master of energy and environmental engineer
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - Finding uniqe CSS Selectors and xPaths
-  - Creating diagrams and decision tables
   # Certificates
   - AVIATION CONSULTING MICHAL RATAJCZAK & ATENA ACADEMY SP. Z 0.0. – SOFTWARE TESTER
   - AVIATION CONSULTING MICHAL RATAJCZAK & ATENA ACADEMY SP. Z 0.0. - ASICS OF PYTHON PROGRAMMING
   - CISCO CERTIFIED CCNA
   # My test case examples
-  - [Test cases for site eobuwie.com.pl](https://docs.google.com/document/d/1VrQwMMNtbQMI19OMsah1TZkNEOWE0GKji7kk53njlmM/edit)
+  - [Test cases for site www.eobuwie.com.pl](https://docs.google.com/document/d/1VrQwMMNtbQMI19OMsah1TZkNEOWE0GKji7kk53njlmM/edit)
+  - [Test cases for site www.douglas.pl](https://docs.google.com/document/d/1JGwhpmohsLmyHFDxwXAIdUU2cuTZImPMFxD7Or0SOLQ/edit)
+  - [Test cases for site www.skleptest.pl](https://docs.google.com/document/d/15Ba8oIxRMmCWizwAVN3yeI1HsXYA5dHqPJ2RJ4Vrvyc/edit)
