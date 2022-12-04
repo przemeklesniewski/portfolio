@@ -38,7 +38,15 @@ My name is Przemek Leśniewski. I am master of energy and environmental engineer
   - [Test cases for site www.skleptest.pl](https://docs.google.com/document/d/15Ba8oIxRMmCWizwAVN3yeI1HsXYA5dHqPJ2RJ4Vrvyc/edit)
   # My bug reports
   - [Bugs reported for angelus.com.pl site](https://docs.google.com/document/d/11WXFcSBOuerZfrP-uH4Hn3LSNJOlrD54/edit)
-  - 
+  - [Bugs reported for legnica.sr.gov.pl site](https://docs.google.com/document/d/1sJ3mNgg2MmRWvxS3wfuisTzADgQ92S70/edit)
+  - [Bugs reported for vulcan.edu.pl site](https://docs.google.com/document/d/1fIAbQ1qxcb9w0jOlZ23fIJFBW_L0pmei/edit)
+  - [Bugs reported for https.my-vue-todos.netlify.app site](https://docs.google.com/document/d/1WaUS5qD5o3PPd0oxLXa3b-JUgBf3GjNoW0PZUYS_TSE/edit)
+  - [Bugs reported for skleptest site](https://docs.google.com/document/d/1e2aQho78WGk9YAcYam_U4qTolngFAldY/edit)
+  - [Bugs reported for obliczakcyze.pl site](https://docs.google.com/document/d/1e2aQho78WGk9YAcYam_U4qTolngFAldY/edit)
+  - [Bugs reported for eobuwie.com.pl site](https://docs.google.com/document/d/1GGqvb7luIVaEmhL2ljtVo4T7n1OSs-Wb/edit)
+  - [Bugs reported for aww.com.pl site](https://docs.google.com/document/d/1gu6cH8aU7k3Ek5bJhPwD4l4-toajfrtk/edit)
+  - [Bugs reported for gazeta.pl site](https://docs.google.com/document/d/1YsrFrFbY2yPq_8KWTwYDzQci_fJtTRUz/edit)
+  - [Bugs reported for czasnabuty.pl site](https://docs.google.com/document/d/1-rKIHC-Gt9zGf2SLfDl4HJg8SAqtHrEy/edit)
   # My projects
   - Miro table
   - Cykl logowania
