@@ -48,7 +48,6 @@ My name is Przemek Leśniewski. I am master of energy and environmental engineer
   - [Bugs reported for gazeta.pl site](https://docs.google.com/document/d/1YsrFrFbY2yPq_8KWTwYDzQci_fJtTRUz/edit)
   - [Bugs reported for czasnabuty.pl site](https://docs.google.com/document/d/1-rKIHC-Gt9zGf2SLfDl4HJg8SAqtHrEy/edit)
   # My projects
-  - Miro table
-  - Cykl logowania
-  - historyjki użytkownika
-  - user story
+  - [Miro table](https://docs.google.com/document/d/1KT8WyY-TdBAE_BgWjrgGCM25ZY8dOO0i/edit)
+  - [Login cycle from allegro.pl site](https://docs.google.com/document/d/1YQXdCQVSfJ936D-IZJgIUPOcDV8_-SpO/edit)
+  - [User stories](https://docs.google.com/document/d/1aoQkIJUyepGblLaUZTCvNnVqA82rXVfW/edit)
